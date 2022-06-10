@@ -5,5 +5,5 @@ from time import process_time_ns
 from selenium import webdriver
 
 if __name__ == "__main__" :
-    driver = webdriver.Chrome('./chromedriver')
-    print("snapbot")
+    driver = webdriver.Chrome('./Driver/chromedriver')
+    driver.get('https://shopee.tw/')

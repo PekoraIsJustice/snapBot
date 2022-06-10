@@ -120,6 +120,7 @@ venv.bak/
 # mkdocs documentation
 /site
 /Driver/
+/Cookies/
 
 # mypy
 .mypy_cache/
